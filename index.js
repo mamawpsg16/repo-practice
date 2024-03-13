@@ -1,1 +1,2 @@
-console.log('BETA');
+alert('Hello Bro From Local')
+
